@@ -1,6 +1,20 @@
-# Proposta de publicação — aguarda aprovação
+# Publicação gratuita aprovada — bloqueada até validar teto de custos
 
 Preparada em 10 de setembro de 2026. Nenhum serviço criado nesta preparação.
+
+## Restrição vinculativa do utilizador — 10/09/2026
+
+O utilizador confirmou a opção gratuita e determinou: nunca ultrapassar os limites.
+Não contratar planos pagos, upgrades, recargas nem permitir cobranças de excedentes.
+Ao atingir os limites, a integração deve parar até à renovação gratuita da quota.
+Antes de publicar, verificar bloqueios efetivos do lado de ambos os fornecedores,
+abrangendo compute, tráfego, builds e créditos. Alertas ou limites em memória não
+substituem um bloqueio de cobrança. Se não for possível garantir essas condições,
+manter a publicação suspensa e reportar a limitação. Não pedir novamente aprovação
+para o plano Free; apenas resolver os requisitos de acesso e proteção financeira.
+
+A tentativa de autenticação segura no painel Render terminou com erro de transporte;
+o estado de autenticação não foi confirmado. Nenhum serviço foi criado.
 
 ## Configuração concreta
 
